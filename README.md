@@ -2,6 +2,9 @@
 A Raydium Solana Volume BOT
 Contact Telegram @https://t.me/eth_tacou to get in touch
 
+Ready to launch tool, dedicated to your memecoin, plug and play and dockerized.
+
+
 Price : 7 SOL
 
 Example with low amount I can provide you to have a proof of the tool working 
